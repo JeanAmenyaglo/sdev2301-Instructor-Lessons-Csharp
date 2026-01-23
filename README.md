@@ -14,5 +14,4 @@ This repository  **student-facing** lesson notes, examples, and practice activit
 - Lesson 07A — Properties, Fields & Encapsulation
 
 ## Helpful resources
-See the `resources/` folder for naming guidelines, common errors, and a glossary.
-```
+See the [resources](./resources/) folder for naming guidelines, common errors, and a glossary.
