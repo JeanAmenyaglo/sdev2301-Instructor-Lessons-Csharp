@@ -6,7 +6,7 @@ Expand on the Pet Store console application by including inheritance.
 ## Requirements for Classes and Interfaces
 
 1. Create two new classes called `Animal` and `Fish` in the Animals subfolder with the following details:
-    - Animal
+    - Animal (abstract class)
         - Fields
             - private string _name;
             - protected int _age;
